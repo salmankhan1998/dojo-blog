@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "World Crisis",
+      "body": "The International Rescue Committee (IRC) has released its 2022 Emergency Watchlist, a global list of humanitarian crises that are expected to deteriorate the most over the coming year. Most Watchlist countries—the top ten in particular—have experienced almost non-stop conflict over the last decade, hampering their ability to respond to global challenges like COVID-19 and climate change. These 20 countries are home to 10% of the global population but account for 89% of those in need of humanitarian aid worldwide.",
+      "author": "IRC",
+      "id": 1
+    }
+  ]
+}

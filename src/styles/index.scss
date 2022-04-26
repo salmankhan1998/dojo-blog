@@ -1,0 +1,20 @@
+@import 'home';
+@import 'navbar';
+@import 'create';
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+
+.content{
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 20px;
+}

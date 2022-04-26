@@ -1,0 +1,58 @@
+.create{
+    max-width: 450px;
+    margin: 0 auto;
+    text-align: center;
+
+    h2{
+        color: #f1356d
+    }
+
+    form{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    
+        label{
+            display: block;
+            text-align: left;
+            color: #A9A9A9;
+            margin-top: 15px;
+            margin-bottom: 10px;
+        }
+    
+        input{
+            display: block;
+            padding: 8px 10px;
+
+            &:focus{
+                border: 1px solid #f1356d;
+            }
+        }
+    
+        textarea{
+            display: block;
+            padding: 8px 10px;
+           
+            &:focus{
+                border: 1px solid #f1356d;
+            }
+        }
+
+        button{
+            width: max-content;
+            border: 1px solid transparent;
+            border-radius: 20px;
+            padding: 10px 15px;
+            margin: 20px auto 0;
+            color: #fff;
+            background: #f1356d;
+            transition: 0.4s ease-in-out;
+
+            &:hover{
+                color: #f1356d;
+                background: #fff;
+                border: 1px solid #f1356d;
+            }
+        }
+    }
+}
